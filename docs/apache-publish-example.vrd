@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Пример публикации HTTP-сервиса nomenclature_bot для Apache + 1С.
+     Скопируйте в каталог публикации и подставьте свой путь к ИБ и учётные данные. -->
+<point xmlns="http://v8.1c.ru/8.2/virtual-resource-system"
+       xmlns:xs="http://www.w3.org/2001/XMLSchema"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       base="/unf"
+       ib="File=&quot;C:\Path\To\Infobase&quot;;Usr=&quot;BotAPI&quot;;Pwd=&quot;&quot;;"
+       enableStandardOdata="true">
+    <ws pointEnableCommon="true"/>
+    <httpServices publishByDefault="true" publishExtensionsByDefault="true">
+        <service name="nomenclature_bot" rootUrl="nomenclature_bot" enable="true"/>
+    </httpServices>
+</point>

@@ -1,0 +1,44 @@
+# Секреты и локальная конфигурация
+.env
+.dev.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Docker
+postgres_data/
+
+# IDE / OS / локальная конфигурация разработки
+.idea/
+.vscode/
+.cursor/
+.ai-rules.json
+AGENTS.md
+USER-RULES.md
+memory.md
+openspec/
+docs/GITHUB.md
+*.swp
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+logs/
+tmp/
+temp/
+handoffs/
+
+# Локальная инфраструктура (не публикуется)
+tools/
+
+# Полная выгрузка типовой УНФ — проприетарная, очень большая; держите локально
+1С_Configuration/

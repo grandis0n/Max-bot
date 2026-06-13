@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Configuration.ЧатБот" id="86eb913f-dd50-4fc9-83af-bc75e3c5a6ae" configVersion="b8f3a1c2d4e5f60718293a4b5c6d7e8f9a0b1c2"/>
+		<Metadata name="CommonModule.ЧБ_НоменклатураБотAPI" id="a063f577-4a3b-40b5-ac7e-e2dfe0f8b300" configVersion="c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0"/>
+		<Metadata name="CommonModule.ЧБ_НоменклатураБотAPI.Module" id="a063f577-4a3b-40b5-ac7e-e2dfe0f8b300.0" configVersion="d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1"/>
+		<Metadata name="HTTPService.nomenclature_bot" id="2f80ed86-261f-416b-bef1-a116f5fe9c80" configVersion="e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2"/>
+		<Metadata name="HTTPService.nomenclature_bot.Module" id="2f80ed86-261f-416b-bef1-a116f5fe9c80.0" configVersion="f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3"/>
+		<Metadata name="Constant.TelegramBotToken" id="b8e4c1d2-3f5a-4b6c-9d0e-1a2b3c4d5e6f" configVersion="c5d6e7f8091a2b3c4d5e6f708192a3b4"/>
+		<Metadata name="Constant.update_id" id="a03e2d52-9fdc-4f38-ac85-a8fa2efcf987" configVersion="70ab77bc714638861e7bd2bc065489b9c3202153"/>
+		<Metadata name="DataProcessor.Бот" id="a07bb569-0502-431b-966e-e51d09402a3c" configVersion="0a4b857dce4172208ad4997ca6483bb53ee1687e"/>
+		<Metadata name="DataProcessor.Бот.Form.Форма" id="6dcc762f-ca9f-4659-97b6-e715fb3fda9f" configVersion="11270c9652201676e300c9c68b9669fc46e952b2"/>
+		<Metadata name="DataProcessor.Бот.Form.Форма.Form" id="6dcc762f-ca9f-4659-97b6-e715fb3fda9f.0" configVersion="062fa51baa55666c63fe049039c1c22a7d81679a"/>
+		<Metadata name="InformationRegister.Подписчики" id="cd20b5a3-e98d-4fa6-9642-e55fc34e02d9" configVersion="9104dc06fafc720551c6c3a634012a20113e00ff">
+			<Metadata name="InformationRegister.Подписчики.Dimension.chat_id" id="129a44a6-2556-42d0-b875-b27ccd372977"/>
+			<Metadata name="InformationRegister.Подписчики.Resource.Действителен" id="e2620d6a-b444-44a0-bb00-8e0742f10fac"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="e7c4d70b-14c2-4965-8c90-c9bdec4b3d57" configVersion="a01d8714b06ba0641bbce442376c0899fd12661a"/>
+		<Metadata name="Role.ЧБ_ОсновнаяРоль" id="689b4f8a-4db3-40e3-ab53-cc192e7bad84" configVersion="a1b2c3d4e5f60718293a4b5c6d7e8f9a0b1c2d3"/>
+		<Metadata name="Role.ЧБ_ОсновнаяРоль.Rights" id="689b4f8a-4db3-40e3-ab53-cc192e7bad84.0" configVersion="b2c3d4e5f60718293a4b5c6d7e8f9a0b1c2d3e4"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
